@@ -6,4 +6,8 @@ I was interested in seeing who the last player to play for each NBA champion (as
 * The last player to play for the team, regardless of whether they left and later rejoined the team
 
 ## Data Sources
-[Hispanos NBA] (https://en.hispanosnba.com)
+[Hispanos NBA](https://en.hispanosnba.com)
+* A website containing profile pages for current and historical basketball players
+> [!NOTE]
+> Crucial information necessary for users to succeed.
+
