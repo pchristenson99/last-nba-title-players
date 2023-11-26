@@ -9,7 +9,12 @@ I was interested in seeing who the last player to play for each NBA champion (as
 [Hispanos NBA](https://en.hispanosnba.com)
 * A website containing profile pages for current and historical basketball players
 > [!NOTE]
-> Crucial information necessary for users to succeed.
+> While I could not find any explicit statement that scraping from this website is a violation, I advise that any scraping done on Hispanos NBA or with my code be done with caution. Additionally, I do not take responsibility for actions performed with any web scraping code I have written.
 
+[List of NBA Champions](https://en.wikipedia.org/wiki/List_of_NBA_champions)
+* A Wikipedia page containing a list of all NBA champions by season
+
+[List of Relocated NBA Teams](https://en.wikipedia.org/wiki/List_of_relocated_National_Basketball_Association_teams)
+* A Wikipedia page containing a list of all relocated NBA teams, as a team's relocation should not be considered when assessing whether a player is still on a championship team
 ## Analysis Structure
 ### Code
