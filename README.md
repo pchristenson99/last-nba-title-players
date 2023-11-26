@@ -18,3 +18,12 @@ I was interested in seeing who the last player to play for each NBA champion (as
 * A Wikipedia page containing a list of all relocated NBA teams, as a team's relocation should not be considered when assessing whether a player is still on a championship team
 ## Analysis Structure
 ### Code
+[01 webscrape_players.ipynb](https://github.com/pchristenson99/last-nba-title-players/blob/main/code/01%20webscrape_players.ipynb)
+* A script that web scrapes all NBA players and their team history
+
+[02 analyze_player_data.R](https://github.com/pchristenson99/last-nba-title-players/blob/main/code/02%20analyze_player_data.R)
+* A script that cleans the web scraped data, pulls in championship and relocation history, and evaluates the last player on each championship team
+
+### Output
+[last_championship_players.csv](https://github.com/pchristenson99/last-nba-title-players/blob/main/output/last_championship_players.csv)
+* A .csv containing the last player(s) to play for each championship team (using both methodologies)
