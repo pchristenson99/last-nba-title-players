@@ -15,7 +15,7 @@ I was interested in seeing who the last player to play for each NBA champion (as
 * A Wikipedia page containing a list of all NBA champions by season
 
 [List of Relocated NBA Teams](https://en.wikipedia.org/wiki/List_of_relocated_National_Basketball_Association_teams)
-* A Wikipedia page containing a list of all relocated NBA teams, as a team's relocation should not be considered when assessing whether a player is still on a championship team
+* A Wikipedia page containing a list of all relocated NBA teams, as a team's relocation should not be considered when assessing whether a player is still on that team
 ## Analysis Structure
 ### Code
 [01 webscrape_players.ipynb](https://github.com/pchristenson99/last-nba-title-players/blob/main/code/01%20webscrape_players.ipynb)
